@@ -1,1 +1,1 @@
-﻿Currently working on the Project Section of the site.
+The Project section is updated weekly as per aligned completion.
